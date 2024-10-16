@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 10px;
+}
+body {
+    max-width: 30%;
+    margin: 0 auto;
+}
+h1 {
+    color: green;
+    
+}
+input {
+    width: 300px;
+    height: 20px;
+    border-radius: 4px;
+}
+input[type="button"] {
+    width: 80px;
+    border-radius: 15px;
+    height: 35px;
+} 
+.need {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
