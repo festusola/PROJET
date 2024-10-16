@@ -68,14 +68,18 @@ a {
     
 
 }
+.nav {
+    display: flex;
+    justify-content: space-between;
+}
 button .Next {
     padding-left: 10px;
-  
+   
 }
 button .Home {
     float: left;
     padding-left: 20px;
-   
+
 
 }
 .log input { 
