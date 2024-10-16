@@ -1,0 +1,125 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header p{ 
+    color: black; 
+}
+
+.row-1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.sitename {
+    color: green;
+    float: left;
+    font-size: larger;
+    padding-left: 10px;
+}
+
+header input {
+    border-radius: 15px;  
+    margin-right: 100px;
+    padding: 5px;
+}
+ 
+
+
+ ul{
+    clear: both;
+    
+   
+}
+
+li {
+    display: inline;
+    padding-left: 5px;
+    list-style-type: none;
+    margin: 2px;   
+    padding-left: 7px;
+}
+    
+
+a {
+    text-decoration: none;
+    color: whitesmoke;
+   
+}
+
+ .row-2 ul {
+   
+    text-transform: uppercase;
+    color: aliceblue;
+    font-size: larger;
+    font-weight: 700;
+    list-style-type: none;
+    background-color: rgb(86, 81, 81);
+}
+
+.nav button {
+    background-color: green;
+    color: whitesmoke;
+    padding: 7px 12px;
+    border-radius: 5px;
+    margin-left: 30px;
+    
+
+}
+button .Next {
+    padding-left: 10px;
+  
+}
+button .Home {
+    float: left;
+    padding-left: 20px;
+   
+
+}
+.log input { 
+background-color: rgb(155, 225, 123);
+padding: 7px 20px;
+}
+
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h2 {
+    text-transform: uppercase;
+    
+}
+
+.content1 {
+    clear: both;
+    background-color: rgb(155, 225, 123);
+    margin: 10px;
+    padding: 5%;    
+}
+
+.p1 {
+    color: white;
+    background-color: green;
+    padding: 7px;
+
+}
+.p2 {
+    color: whitesmoke;
+    background-color:rgb(48, 45, 45);
+    padding: 7px;
+}
+
+h3 {
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.foot {
+    background-color: gray;
+    font-weight: 700;
+}
