@@ -19,6 +19,12 @@ header p{
     font-size: larger;
     padding-left: 10px;
 }
+.log a {
+    background-color:  rgb(155, 225, 123);
+    border-radius: 15px;
+    padding: 10px;
+}
+
 
 header input {
     border-radius: 15px;  
@@ -43,7 +49,8 @@ li {
 }
     
 
-a {
+a { 
+    
     text-decoration: none;
     color: whitesmoke;
    
@@ -81,10 +88,6 @@ button .Home {
     padding-left: 20px;
 
 
-}
-.log input { 
-background-color: rgb(155, 225, 123);
-padding: 7px 20px;
 }
 
 

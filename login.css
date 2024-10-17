@@ -1,14 +1,22 @@
 * {
     margin: 0;
-    padding: 10px;
+    padding: 4px;
+    
+   
 }
 body {
     max-width: 30%;
     margin: 0 auto;
+    padding-top: 170px;
+   
+    
 }
 h1 {
     color: green;
     
+}
+p {
+    margin-left: 150px;
 }
 input {
     width: 300px;
@@ -21,7 +29,13 @@ input[type="button"] {
     height: 35px;
 } 
 .need {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+   margin-right: 10px;
+    
+}
+a {
+    color: green;
+    text-decoration: none;
+}
+a:hover {
+    color: rgb(214, 201, 13);
 }
